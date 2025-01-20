@@ -14,15 +14,15 @@ const Footer = () => {
         </LogoWrapper>
         <TextWrapper>
             <div className="copy-nameBusiness">
-            <span> © 2024</span>
-            <span> Invest Imóveis- Negócios imobiliários</span>
+            <span> © 2025</span>
+            <span> JCésar Imóveis | Agro e Urbano</span>
             </div>
             <span>CRECI 13694F</span>
         </TextWrapper>
         <SocialWrapper>
         <a href="https://www.facebook.com/ubaldoneto/" ><FaFacebookF className="icon-social-footer"/></a>
              <a href="https://www.instagram.com/imob_invest_ubj/"><SlSocialInstagram className="icon-social-footer"/></a>
-             <a href="https://api.whatsapp.com/send?phone=5588993170211"> <MdWhatsapp className="icon-social-footer"/></a>
+             <a href="https://api.whatsapp.com/send?phone=5561983749505"> <MdWhatsapp className="icon-social-footer"/></a>
         </SocialWrapper>
        </FooterContainer>
     )

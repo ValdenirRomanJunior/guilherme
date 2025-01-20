@@ -423,7 +423,7 @@ export const TelephoneSideBarWrapper = styled.div`
     
 
     @media screen and (min-width: 1000px){
-        width:105px;
+        width:115px;
         height:40px;
         margin-right:20px;
 
