@@ -17,7 +17,7 @@ const Footer = () => {
             <span> © 2025</span>
             <span> JCésar Imóveis | Agro e Urbano</span>
             </div>
-            <span>CRECI 13694F</span>
+            <span>CRECI TO-4033</span>
         </TextWrapper>
         <SocialWrapper>
         <a href="https://www.facebook.com/ubaldoneto/" ><FaFacebookF className="icon-social-footer"/></a>
