@@ -20,8 +20,8 @@ const Footer = () => {
             <span>CRECI TO-4033</span>
         </TextWrapper>
         <SocialWrapper>
-        <a href="https://www.facebook.com/ubaldoneto/" ><FaFacebookF className="icon-social-footer"/></a>
-             <a href="https://www.instagram.com/imob_invest_ubj/"><SlSocialInstagram className="icon-social-footer"/></a>
+        <a href="https://www.facebook.com/profile.php?id=100054884104543" ><FaFacebookF className="icon-social-footer"/></a>
+             <a href="https://www.instagram.com/jcesar.agroeurbano/"><SlSocialInstagram className="icon-social-footer"/></a>
              <a href="https://api.whatsapp.com/send?phone=5561983749505"> <MdWhatsapp className="icon-social-footer"/></a>
         </SocialWrapper>
        </FooterContainer>

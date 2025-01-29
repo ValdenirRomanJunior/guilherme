@@ -23,21 +23,21 @@ const About = () => {
              <BsPlus className="icon-plus-question"/>
             </QuestionWrapper>
             <AnswerWrapper open={openAnswer} onClick={handleOpenModalLink}>
-            <h2>Ajudamos você a encontrar o seu lar em Ubajara e toda Serra da Ibiapaba!</h2>
-                <p>Atuante no ramo imobiliário há alguns anos, somos uma empresa
-                   especializada na locação e venda de imóveis em Ubajara e região,
-                   100% dedicados à credibilidade e transparência. Com alto rigor profissional, 
-                   contamos com colaboradores competentes e qualificados para melhor atendê-los.
-                   Levamos aos nossos clientes toda
-                   praticidade para organizar e agilizar todos os processos imobiliários.
-                   Todas as nossas visitas são acompanhadas, 
-                   trazendo assim segurança do início ao fim, tanto no aluguel, quanto na venda.</p>
+            <h2>Especialistas em fazendas, chácaras e imóveis urbanos no Tocantins e região!</h2>
+                <p>Somos uma empresa focada na compra e venda de fazendas, chácaras e propriedades urbanas. 
+                    Nosso compromisso é conectar proprietários e investidores com transparência, credibilidade e um atendimento personalizado.
+                     Com ampla experiência no mercado, oferecemos soluções práticas e seguras, atendendo às necessidades de quem busca investir
+                      no campo ou na cidade.
 
-                   <span>Ubaldovasconcelos@gmail.com</span>
-                   <span>Av. Cel. Francisco Cavalcante, Centro Ubajara</span>
+                      Seja para produção agrícola, pecuária, lazer ou moradia, temos as melhores opções de propriedades rurais e urbanas. 
+                      Nosso diferencial está no acompanhamento completo do processo de negociação, garantindo agilidade e segurança do início ao 
+                      fim.</p>
+
+                   <span>jcesaragroeurbano@gmail.com</span>
+                   <span>Pedro Afonso - TO</span>
                
-                   <span>Ubajara - CE</span>
-                   <span>(88) 99317-02011</span>
+                   <span>(61) 98374-9505</span>
+                   <span>(63) 99223-1586</span>
             </AnswerWrapper>
    
            
