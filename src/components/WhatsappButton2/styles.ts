@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-export const WhatsappWrapper= styled.a`
+export const WhatsappWrapper2= styled.a`
        width:160px;
        height:35px;
        padding: 5px 0;
@@ -10,7 +10,7 @@ export const WhatsappWrapper= styled.a`
 
        position: fixed;
        right:2%;
-       bottom:3%;
+       bottom:10%;
 
        display: flex;
        justify-content: space-around;
@@ -54,8 +54,8 @@ export const WhatsappWrapper= styled.a`
  
         position: fixed;
         right:2%;
-        top:unset;
-        bottom:0;
+        
+        bottom:10%;
  
         display: flex;
         justify-content: space-around;
@@ -103,8 +103,8 @@ export const WhatsappWrapper= styled.a`
  
         position: fixed;
         right:1%;
-        top:unset;
-        bottom:0;
+       
+        bottom:10%;
  
         display: flex;
         justify-content: space-around;

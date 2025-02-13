@@ -411,12 +411,13 @@ export const TelephoneSideBarWrapper = styled.div`
 
    
     .telephone-icon-header{
-        font-size: 14px;
+        font-size: 25px;
         color:#808080;
+        margin-right: 7px;
     }
 
     span{
-        font-size:11px;
+        font-size:10px;
         color:#808080;
     }
 
@@ -428,7 +429,7 @@ export const TelephoneSideBarWrapper = styled.div`
         margin-right:20px;
 
         .telephone-icon-header{
-            font-size: 13px;
+            font-size: 27px;
             color:#808080;
         }
     

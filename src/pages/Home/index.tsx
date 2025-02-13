@@ -33,6 +33,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import React from "react";
 import MediaQuery from "react-responsive";
+import WhatsappButton2 from "../../components/WhatsappButton2";
 
 
 type Banners = {
@@ -232,6 +233,7 @@ const Home = () => {
             <SessionFooter>
                 <Footer />
             </SessionFooter>
+            <WhatsappButton2/>
           <WhatsappButton/>
         </HomeBodyContainer>
         </ErrorBoundary>

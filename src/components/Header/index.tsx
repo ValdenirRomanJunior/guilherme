@@ -64,7 +64,7 @@ const Header = ({onChange}:Prop) =>{
 
                 <TelephoneSideBarWrapper>                 
                     <BsTelephone className='telephone-icon-header'/>
-                   <span>(61) 98374-9505</span>
+                   <span>(61) 98374-9505 (63) 99223-1586</span>
                   
                 </TelephoneSideBarWrapper>
                 <Hambuguer onClick={showSidebar}>
@@ -97,6 +97,7 @@ const Header = ({onChange}:Prop) =>{
        
             <PhoneWrapper >
             <a href='https://api.whatsapp.com/send?phone=5561983749505'><MdWhatsapp className='whatsapp-icon-sidebar'/><p className='description-icon'>(61) 98374-9505</p></a>
+            <a href='https://api.whatsapp.com/send?phone=5563992231586'><MdWhatsapp className='whatsapp-icon-sidebar'/><p className='description-icon'>(63) 99223-1586</p></a>
             </PhoneWrapper>  
          
 
