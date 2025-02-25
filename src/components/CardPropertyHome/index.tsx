@@ -79,7 +79,7 @@ const CardPropertyHome = (props: { url: string})=>{
 
 
     const getProperties = async () => {    
-        const data= await getPropertiesHome('jcesaragroeurbano.netlify.app');  
+        const data= await getPropertiesHome('jcesaragroeurbano.com.br');  
      
         if(data){     
             setPage(data.data as Property[]);
